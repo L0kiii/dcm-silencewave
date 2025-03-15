@@ -70,7 +70,7 @@ Validation options:
 
 ```python
 # Inside your Python script or notebook
-from dcm_validation_v0.2 import validate_lehman_crisis
+from dcm_validation import validate_lehman_crisis
 
 # Run the validation
 lehman_dcm = validate_lehman_crisis()
@@ -79,7 +79,7 @@ lehman_dcm = validate_lehman_crisis()
 ### Creating a custom DCM simulation
 
 ```python
-from dcm_validation_v0.2 import DCMConfiguration, DynamicCollectiveModel
+from dcm_validation import DCMConfiguration, DynamicCollectiveModel
 import pandas as pd
 
 # Create a custom configuration
