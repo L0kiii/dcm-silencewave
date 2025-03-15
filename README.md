@@ -44,10 +44,10 @@ pip install numpy pandas matplotlib scipy yfinance
 
 ## Usage
 
-The main script `dcm_validation_v0.2.py` provides several validation options:
+The main script `dcm_validation.py` provides several validation options:
 
 ```bash
-python dcm_validation_v0.2.py
+python dcm_validation.py
 ```
 
 When executed, the script will display a menu:
