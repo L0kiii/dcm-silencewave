@@ -153,8 +153,7 @@ The model produces various visualizations and metrics:
 If you use this code in your research, please cite our paper:
 
 ```
-Zhang, H. (2025). A Dynamic Collective Model for Simulating and Predicting 
-Silence Waves with Applications in Financial Risk Management. Physica A.
+coming soon
 ```
 
 ## License
